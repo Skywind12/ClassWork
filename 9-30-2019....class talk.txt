@@ -1,0 +1,10 @@
+Goals for Today:
+
+- design a common class diagram, use case diagram for github.
+- create a list in which we can choose and pick the tasks we need to do (code-wise).
+- ???
+
+
+Things for Group project:
+- justify the actions you do
+- Junit test?
