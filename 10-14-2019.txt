@@ -1,0 +1,7 @@
+udacity.com/course/android-basics-user-interface--ud834
+
+learn it
+
+learn xml?
+
+main task: use the api in the government to pull data from schools.
