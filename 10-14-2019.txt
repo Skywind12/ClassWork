@@ -1,7 +1,12 @@
 udacity.com/course/android-basics-user-interface--ud834
-
+coursera and google learn?
 learn it
 
 learn xml?
 
 main task: use the api in the government to pull data from schools.
+android app, no database required.
+
+the assignment:display your schedule for college, class credits, go to sccc computer science ( about 15-20 courses needed), prerequisites etc. search courses by name and such.
+
+due in 2 weeks.
