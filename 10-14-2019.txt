@@ -7,6 +7,6 @@ learn xml?
 main task: use the api in the government to pull data from schools.
 android app, no database required.
 
-the assignment:display your schedule for college, class credits, go to sccc computer science ( about 15-20 courses needed), prerequisites etc. search courses by name and such.
+the assignment:display your schedule for college, class credits, go to sccc computer science ( about 15-20 courses needed), prerequisites etc. search courses by name and such. select classes confirmation save mutiple schedules.
 
 due in 2 weeks.
