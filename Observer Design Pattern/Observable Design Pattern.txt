@@ -1,0 +1,7 @@
+Observer design pattern :)
+
+
+what it is?
+-when something gets changed, who were the observers will be notified.
+ex: when you withdraw from classes, financial aid will be notified and the admision will be notified.
+
