@@ -1,0 +1,5 @@
+you can make differetn arrays so that one semester you can only choose this classes then remove accordingly from classes taken.
+
+requisites only for math and computer science only.
+
+4 classes maximn in summer.
