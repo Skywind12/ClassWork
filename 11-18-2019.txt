@@ -1,0 +1,8 @@
+sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver
+
+get the latest jar file of jdbc sqlite driver
+just go to ibraries add jar file.
+
+get the query from apikey into string form, then using that string that has been parsed into json format, create the data to accomodate
+according to how data is parsed.
+ask proffesor if the code displayed today will be abailable for refference. 
