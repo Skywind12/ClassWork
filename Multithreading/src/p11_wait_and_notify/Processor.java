@@ -4,9 +4,11 @@ import java.util.Scanner;
 
 public class Processor {
 	public void produce() throws InterruptedException {
-		System.out.println("producer is producing...");
-		wait();
-		System.out.println("producer resumed producing.");
+		synchronized (this) {
+			System.out.println("producer is producing...");
+			wait();
+			System.out.println("producer resumed producing.");
+		}
 	}
 
 	public void consume() throws InterruptedException {
